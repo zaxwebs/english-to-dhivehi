@@ -1,3 +1,9 @@
+Live: https://english2dhivehi.netlify.com/
+
+This app lets you translate English words & some common phrases to Dhivehi (also referred to as Divehi) & vice-versa.
+
+With Dhivehi being the official language of Maldives, one of the most desired tourist destinations, we aim to serve both tourists and locals alike with our app in helping them communicate better.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
